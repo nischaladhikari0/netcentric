@@ -1,0 +1,7 @@
+C:\Users\nischal\OneDrive\Documents\Desktop\Dotnet\Swapping value\Swapping value\bin\Debug\Swapping value.exe.config
+C:\Users\nischal\OneDrive\Documents\Desktop\Dotnet\Swapping value\Swapping value\bin\Debug\Swapping value.exe
+C:\Users\nischal\OneDrive\Documents\Desktop\Dotnet\Swapping value\Swapping value\bin\Debug\Swapping value.pdb
+C:\Users\nischal\OneDrive\Documents\Desktop\Dotnet\Swapping value\Swapping value\obj\Debug\Swapping value.csproj.AssemblyReference.cache
+C:\Users\nischal\OneDrive\Documents\Desktop\Dotnet\Swapping value\Swapping value\obj\Debug\Swapping value.csproj.CoreCompileInputs.cache
+C:\Users\nischal\OneDrive\Documents\Desktop\Dotnet\Swapping value\Swapping value\obj\Debug\Swapping value.exe
+C:\Users\nischal\OneDrive\Documents\Desktop\Dotnet\Swapping value\Swapping value\obj\Debug\Swapping value.pdb
